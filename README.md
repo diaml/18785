@@ -1,6 +1,6 @@
 # 18-785
 A repository for the course Data, Inference and Applied Machine Learning
-### Instructor: Prof. Patrick McSharry               Email: mcsharry@cmu.edu
+### Instructor: Prof. Patrick McSharry               Email: <placeholder>@cmu.edu
 
 Course Discipline: Electrical and Computer Engineering
 
